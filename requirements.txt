@@ -1,4 +1,6 @@
 # requirements.txt
 snowflake-snowpark-python
-streamlist
+streamlit
+requests
+pandas
 
